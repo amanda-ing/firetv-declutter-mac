@@ -1,0 +1,7 @@
+# Downloaded at runtime
+platform-tools/
+platform-tools.zip
+*.apk
+# Per-TV backups, change records and screenshots (personal; keep local)
+tvs/
+.DS_Store
